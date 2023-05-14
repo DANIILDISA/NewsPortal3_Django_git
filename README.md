@@ -1,0 +1,1 @@
+# NewsPortal3_Django_git
